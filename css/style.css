@@ -224,7 +224,7 @@ nav button{
     nav button{
         width: fit-content;
         padding: 5px;
-        margin-right: 5px;
+        margin-right: 10px;
         font-size: 10px;
         font-weight: 500;
     }
